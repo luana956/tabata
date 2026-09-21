@@ -3,24 +3,19 @@ body {
  
 }
 
-header{
+     header{
                 background-color: #183c63;
                 color: #FFFFFF;
                 text-align: center;
-                max-width: 800px;
-                margin: 0 auto; 
-               border:5px solid #cf101
+                margin: 0 auto;
                 padding: 16px
-
-    }
- 0;
+     }
      
-         main{
+    main {
         background-color: #FFFFFF
-          color: #183c63
-          text-align: center;
-        max-width:800px;
+          color: #183c63;
         margin: 0 auto;
+      padding: 16px;
            
       }
 
