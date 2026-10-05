@@ -28,6 +28,20 @@
 
     }
 
+.tema-escuro header h1{
+        color: #151428;
+}
+
+.btn-tema-escuro{
+        position: fixed;
+        bottom: 16px;
+        font-size: 32px;
+        background-color: var(--cor-primária);
+        border-radius: 50%;
+}
+.tema-escuro .btn-tema-escuro{
+            background-color: var(--cor-secundaria);
+    
         
 body {
     max-width: 100vw;
