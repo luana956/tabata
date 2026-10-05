@@ -17,3 +17,7 @@
         let texto = botao.querySelector("span");
         texto.textContent++;
       }
+
+cons btnTemaEscucuro = document.querySelector(".btn-tema-escuro");
+
+btntemaEscuro.addEventlistener("click", mudaTema
